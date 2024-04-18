@@ -1,57 +1,67 @@
 * {
-    margin: 0; padding: 0;
+    margin: 0;
+    padding: 0;
 }
 
-.menulist{
+body {
+    background-color: white;
+}
+
+ul {
     list-style-type: none;
-    margin: 0px;
-    padding: 0px;
-    background-color: #EEE;
+    margin: 0;
+    padding: 0;
     overflow: hidden;
+    background-color: #38444d;
 }
 
-.menuitem  {
-    float:left;
-
+li {
+    float: left;
 }
 
-.menuitem a {
-    display: block;
+li a,
+.dropbtn {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
     text-decoration: none;
-    color: #000;
-    padding: 10px;
 }
 
-.menuitem a:hover {
-    background-color: #555;
-    color: #FFF;
+li a:hover,
+.dropdown:hover .dropbtn {
+    background-color: red;
 }
 
-.menuitem a:hover, .menuitem:hover .dropbutton {
-    background-color: #555555;
-    color: #FFFFFF;
+li.dropdown {
+    display: inline-block;
 }
 
-.dropcontent {
+.dropdown-content {
     display: none;
     position: absolute;
-    background-color: #EEE;
+    background-color: #f9f9f9;
     min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
 }
 
-.dropcontent a {
+.dropdown-content a {
     color: black;
     padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
 }
 
 .dropdown-content a:hover {
-    background-color: #EEE;
+    background-color: #f1f1f1;
 }
 
-.menuitem:hover .dropdown-content {
+.dropdown:hover .dropdown-content {
     display: block;
 }
+
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 15px;
@@ -86,4 +96,3 @@ img {
 .active {
     background-color: #717171;
 }
-
