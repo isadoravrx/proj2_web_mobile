@@ -1,0 +1,12 @@
+.Box_login{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    max-width: 400px;
+    position: relative;
+    margin: auto;
+}
+
+.Box_login .center{
+    text-align: center;
+}
+
