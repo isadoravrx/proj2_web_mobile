@@ -10,3 +10,17 @@
     text-align: center;
 }
 
+.Box_login img{
+    max-width: 400px;
+    position: relative;
+    margin: auto;
+}
+
+.Box_login .slideshow-container{
+    text-align: center;
+}
+
+body {
+    background-image: url(images/Img.jpeg);
+    background-size: contain;
+  }
