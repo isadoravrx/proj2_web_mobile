@@ -90,18 +90,20 @@ body {
     width: 100%;
     height: 50%;
     background-image: linear-gradient(to right, rgb(247, 247, 89) 0, rgb(247, 247, 89) 55%, rgb(255, 255, 255) 30%);
-    display: block;
+    float : left;
+    position: relative;
+
 }
 
 img[id = "mylogo"]{
-    margin-left: 68%;
-    margin-top: 0%;
-    display: block;
+    margin-left: 37%;
+    margin-top: 7%;
 }
 
 
 img[id = "estudando"]{
-    margin-left: 10%;
-    margin-top: 10%;
-    display: block;
+    margin-left: 20%;
+    margin-top: 20%;
+    float : left;
+    position: relative;
 }
