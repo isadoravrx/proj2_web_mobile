@@ -97,15 +97,22 @@ img {
     background-color: #717171;
 }
 
-.subTitulo{
+.subTituloCursinho{
    margin: 2%;
    position: relative;
    left: 7%;
 }
 
-.descricaoAtividade{
+.descricaoAtividadeCursinho{
     margin: 2%;
     max-width: 50%;
     text-align: left;
+}
+
+.imgCursinho{
+    position: absolute;
+    left: 60%;
+    top: 13%;
+    
 }
 
