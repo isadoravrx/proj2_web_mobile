@@ -1,10 +1,14 @@
 body {
     background-color: #F0F8FF;
-    font-family: sans-serif;    
 }
 
-h1 {
-    font-size: 50px;
+a {
+    text-decoration: none;
+    color: lightblue;
+}
+
+a:hover {
+    background-color: indianred;
 }
 
 .flexSec {
@@ -19,15 +23,15 @@ h1 {
     background-color: #38444d;
 }
 
-.rodape, text {
+.rodape {
     color: #FFF;
 }
 
-.rodape, h2 {
+.rodape {
     font-size: 30px;
 }
 
-.rodape, text {
+.rodape {
     font-size: 10px;
 }
 
@@ -40,18 +44,14 @@ h1 {
 
 .divEsq {
     padding: 10px;
-    padding-left: 60px;
+    padding-left: 100px;
     width: 33%;
-}
-
-.divEsq, p {
-    font-size: 20px;
 }
 
 .divDir {
     padding: 10px;
     left: 84%;
-    width: 70%;
+    width: 40%;
     text-align: right;
 }
 
