@@ -2,6 +2,15 @@ body {
     background-color: #F0F8FF;
 }
 
+.linkBiblio {
+    text-decoration: none;
+    color: lightblue;
+}
+
+.linkBiblio:hover {
+    background-color: indianred;
+}
+
 .rodape {
     display: flex;
     column-gap: 20px;
