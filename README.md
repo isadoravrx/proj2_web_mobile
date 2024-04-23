@@ -40,7 +40,7 @@ O projeto iniciou-se com alguns requisitos mínimos
 - Botões para editar o perfil do professor/aluno.
 - Na página do perfil no aluno, o painel permite a navegação entre mais páginas, como a área de notas do aluno.
 - Tabela de notas do aluno.   
-- <bord>EasterEgg</bord> : Música em cada página de login.
+- **EasterEgg** : Música em cada página de login.
 
 
 
