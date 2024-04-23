@@ -11,7 +11,7 @@ Assim, inicialmente, o usuário inicia sua imersão no site com uma sessão de H
 existe alguns links direcionando para outras áreas do site, assim como uma barra de pesquisa.<br/>
   Existem, ao longo da barra de navegação de dropdown, algumas seções para o usuário visualizar. Dentre elas, estão:
   - Informações da escola, como fundamentos, novidades, localizações e contato.<br/>
-  
+  <img src = "screeshots/home.png">
   - Biblioteca, ao qual tem uma descrição sobre ela, e a comercialização de alguns livros por meio de um catálogo.<br/>
   - Produtos, com alguns materiais de papelaria e da escola, à venda.<br/>
   - Serviços, que comercializa cursos e aulas particulares que a escola fornece. Dentre esses cursos, pelo menos 1 para jovens, e para crianças.<br/>
