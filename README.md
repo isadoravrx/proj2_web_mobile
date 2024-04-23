@@ -20,9 +20,10 @@ Além disso,existe alguns links direcionando para outras áreas do site, assim c
   <img src = "https://github.com/isadoravrx/proj2_web_mobile/blob/main/screenshots/produtos.png">
   - Serviços, que comercializa cursos e aulas particulares que a escola fornece. Dentre esses cursos, pelo menos 1 para jovens, e para crianças.<br/>
   <img src = "https://github.com/isadoravrx/proj2_web_mobile/blob/main/screenshots/servi%C3%A7os.png">
-  - Login, com o objetivo de acessar contas, tanto de alunos, quanto de professores. Quando feito o login de aluno, em específico, existe uma opção<br/>
+  - Login, com o objetivo de acessar contas, tanto de alunos, quanto de professores. Quando feito o login de aluno, em específico, existe uma opção
   de dropdown, que exibe tabela de notas.
   <img src = "https://github.com/isadoravrx/proj2_web_mobile/blob/main/screenshots/login.png">
+  
 # Requisitos mínimos
 
 O projeto iniciou-se com alguns requisitos mínimos  
