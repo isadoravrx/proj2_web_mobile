@@ -6,8 +6,7 @@ Grupo:
 - Humberto Moraes <br/>
 - Iago Carvalho <br/>
        
-Esse projeto consiste em uma escola-livraria, que possui como objetivo criar uma experiência de usuário que destaca a marca da empresa no mercado.<br/>
-Assim, inicialmente, o usuário inicia sua imersão no site com uma sessão de Home, contendo alguns slideshows, com imagens referentes a escola:
+Esse projeto consiste em uma escola-livraria, que possui como objetivo criar uma experiência de usuário que destaca a marca da empresa no mercado.Assim, inicialmente, o usuário inicia sua imersão no site com uma sessão de Home, contendo alguns slideshows, com imagens referentes a escola:
   
 <img src = "https://github.com/isadoravrx/proj2_web_mobile/blob/main/screenshots/home.png">
 
