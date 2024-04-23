@@ -6,17 +6,24 @@ Grupo:
 - Humberto Moraes <br/>
 - Iago Carvalho <br/>
        
-  Esse projeto consiste em uma escola-livraria, que possui como objetivo criar uma experiência de usuário que destaca a marca da empresa no mercado.<br/>
-Assim, inicialmente, o usuário inicia sua imersão no site com uma sessão de Home, contendo alguns slideshows, com imagens referentes a escola. Além disso,<br/>
-existe alguns links direcionando para outras áreas do site, assim como uma barra de pesquisa.<br/>
+Esse projeto consiste em uma escola-livraria, que possui como objetivo criar uma experiência de usuário que destaca a marca da empresa no mercado.<br/>
+Assim, inicialmente, o usuário inicia sua imersão no site com uma sessão de Home, contendo alguns slideshows, com imagens referentes a escola:
+  
+<img src = "https://github.com/isadoravrx/proj2_web_mobile/blob/main/screenshots/home.png">
+
+Além disso,existe alguns links direcionando para outras áreas do site, assim como uma barra de pesquisa.<br/>
   Existem, ao longo da barra de navegação de dropdown, algumas seções para o usuário visualizar. Dentre elas, estão:
   - Informações da escola, como fundamentos, novidades, localizações e contato.<br/>
-  <img src = "screeshots/home.png">
+  <img src = "https://github.com/isadoravrx/proj2_web_mobile/blob/main/screenshots/sobre_escola.png">
   - Biblioteca, ao qual tem uma descrição sobre ela, e a comercialização de alguns livros por meio de um catálogo.<br/>
+  <img src = "https://github.com/isadoravrx/proj2_web_mobile/blob/main/screenshots/biblioteca.png">
   - Produtos, com alguns materiais de papelaria e da escola, à venda.<br/>
+  <img src = "https://github.com/isadoravrx/proj2_web_mobile/blob/main/screenshots/produtos.png">
   - Serviços, que comercializa cursos e aulas particulares que a escola fornece. Dentre esses cursos, pelo menos 1 para jovens, e para crianças.<br/>
+  <img src = "https://github.com/isadoravrx/proj2_web_mobile/blob/main/screenshots/servi%C3%A7os.png">
   - Login, com o objetivo de acessar contas, tanto de alunos, quanto de professores. Quando feito o login de aluno, em específico, existe uma opção<br/>
   de dropdown, que exibe tabela de notas.
+  <img src = "https://github.com/isadoravrx/proj2_web_mobile/blob/main/screenshots/login.png">
 # Requisitos mínimos
 
 O projeto iniciou-se com alguns requisitos mínimos  
