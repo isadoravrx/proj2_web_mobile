@@ -51,5 +51,11 @@ O projeto iniciou-se com alguns requisitos mínimos
 
 
 # Roteiro - Pitch
-
+- Introduzir sobre as principais característica da escola;
+- Destrinchar sobre os requisitos mínimos;
+- Apresentar os resquisitos mínimos implementados por imagens;
+- Discutir sobre os requisitos adicionais;
+- Apresentar os resquisitos adicionais implementados por imagens;
+- Apresentar **Eastereggs** : Música em cada página de login, Aula experimental e cupom de desconto após se registrar;
+- Demonstrar site na prática;
 
