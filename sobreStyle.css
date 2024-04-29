@@ -12,9 +12,8 @@ a:hover {
     column-gap: 15px;
 }
 
-.grid {
-    display: grid;
-    grid-template-columns: 350px 350px 350px;
+.flex {
+    display: flex;
     gap: 100px;
     justify-content: center;
 }
